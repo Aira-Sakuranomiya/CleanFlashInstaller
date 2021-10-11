@@ -1,2 +1,2 @@
 # CleanFlashInstaller
-Just download raw from release and install
+Just download from release and install
